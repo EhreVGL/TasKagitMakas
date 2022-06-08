@@ -16,6 +16,7 @@ Farklı paneller arası geçiş yaparak, bilgisayara karşı veya yanımdaki bir
 ## Uygulama Hakkında
 
 Uygulamanın anasayfasında 3 adet buton bulunmakta. Bu butonlardan soldaki, bilgisayara karşı taş-kağıt-makas oynamak için gerekli olan paneli açıyor. Ortadaki buton, aynı bilgisayardan birisiyle birlikte taş-kağıt-makas oynamak için gerekli olan paneli açıyor. Sağdaki buton ise uygulamayı kapatıyor.
+
 ![](./examples/mainpage.png)
 
 Bilgisayara karşı ve oyuncuya karşı oynarken taraflardan birinin puanı 10 olursa o taraf kazanır.
