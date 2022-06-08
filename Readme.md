@@ -25,7 +25,7 @@ Bilgisayara karşı ve oyuncuya karşı oynarken taraflardan birinin puanı 10 o
 
 ![](./examples/playervsai.gif)
 
-### Sağ Buton
+### Orta Buton
 
 ![](./examples/playervsplayer.gif)
 
